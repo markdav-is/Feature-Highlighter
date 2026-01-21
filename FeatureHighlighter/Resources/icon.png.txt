@@ -1,0 +1,43 @@
+PLACEHOLDER FOR ICON.PNG (128x128)
+
+This file is a placeholder. Replace this with an actual PNG image file named "icon.png".
+
+Recommended Icon Design:
+========================
+
+Size: 128x128 pixels
+Format: PNG with transparency
+
+Design Concept:
+- A document/file icon with a ".feature" extension visible
+- Incorporate a cucumber slice or gherkin pickle graphic element
+- Use green and blue colors to match the syntax highlighting theme
+- Modern, flat design style
+- Clear and recognizable at small sizes
+
+Color Suggestions:
+- Primary: Green (#57A64A) - represents Gherkin/Cucumber
+- Accent: Blue (#569CD6) - represents keywords
+- Background: White or transparent
+
+Simple Design Ideas:
+1. A file icon with a cucumber slice overlaid
+2. A document with highlighted syntax lines visible
+3. Abstract geometric shapes forming a "G" for Gherkin
+4. A simple cucumber pickle icon with code brackets
+
+Tools for Creating Icon:
+- Adobe Illustrator
+- Figma
+- Inkscape (free)
+- Canva (online)
+- GIMP (free)
+
+Export Settings:
+- 128x128 pixels
+- PNG format
+- Transparent background recommended
+- High quality (no compression artifacts)
+
+File must be named exactly: icon.png
+Delete this .txt file after creating the actual PNG.
