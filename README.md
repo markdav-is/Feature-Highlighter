@@ -63,6 +63,27 @@ Thanks to the Reqnroll Gherkin parser, keywords are automatically recognized in 
 - Visual Studio 2022 (version 17.0 or higher)
 - .NET Framework 4.8
 
+## Testing the Extension (For Developers)
+
+If you want to test or develop this extension:
+
+### 🚀 Quick Test (2 minutes)
+See **[QuickTest.md](QuickTest.md)** for the fastest way to test the extension.
+
+### 📋 Comprehensive Testing
+See **[TESTING.md](TESTING.md)** for detailed testing instructions, including:
+- Step-by-step debugging guide
+- Testing checklist for all syntax elements
+- Multi-language testing
+- Performance testing
+- Troubleshooting tips
+
+### Basic Testing Steps:
+1. Open `FeatureHighlighter.sln` in Visual Studio 2022
+2. Press `F5` to launch the Experimental Instance
+3. Open `TestFiles/sample.feature` to see the highlighting in action
+4. Create your own .feature files to test
+
 ## Usage
 
 Just open any `.feature` file in Visual Studio 2022, and syntax highlighting will be automatically applied!
