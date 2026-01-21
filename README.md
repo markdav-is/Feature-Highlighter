@@ -208,6 +208,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 The Reqnroll library used by this extension is licensed under the BSD-3-Clause license.
 
+## Publishing to Marketplace
+
+Want to publish this extension (or fork it for your own version)?
+
+See the complete publishing guide: **[PUBLISHING.md](PUBLISHING.md)**
+
+Quick checklist: **[PUBLISHING-CHECKLIST.md](PUBLISHING-CHECKLIST.md)**
+
+The guides cover:
+- Creating required assets (icon, preview images)
+- Setting up publisher account
+- Uploading to Visual Studio Marketplace
+- Best practices for marketplace listings
+- Handling updates and versions
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
