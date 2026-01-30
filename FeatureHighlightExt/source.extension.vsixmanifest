@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="FeatureHighlighter.a7e8f2c3-1234-5678-90ab-cdef12345678" Version="1.0.0" Language="en-US" Publisher="Mark Davis" />
+        <Identity Id="FeatureHighlighter.a7e8f2c3-1234-5678-90ab-cdef12345678" Version="1.1.0" Language="en-US" Publisher="Mark Davis" />
         <DisplayName>Feature Highlighter</DisplayName>
-        <Description xml:space="preserve">Lightweight syntax highlighting for Gherkin/Cucumber .feature files in Visual Studio. Uses the Reqnroll Gherkin parser for accurate, multi-language support.</Description>
+        <Description xml:space="preserve">Lightweight syntax highlighting for Gherkin/Cucumber .feature files in Visual Studio. Custom parser for accurate, multi-language support with minimal dependencies.</Description>
         <MoreInfo>https://github.com/markdav-is/Feature-Highlighter</MoreInfo>
         <License>LICENSE</License>
         <Icon>Resources\icon.png</Icon>

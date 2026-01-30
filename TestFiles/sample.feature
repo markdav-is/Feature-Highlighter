@@ -1,7 +1,7 @@
+@smoke @regression @authentication
 # Sample Feature File for Testing Feature Highlighter
 # This file demonstrates all syntax elements that should be highlighted
 
-@smoke @regression @authentication
 Feature: User Authentication
   As a registered user
   I want to log in to the application

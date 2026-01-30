@@ -1,9 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Globalization;
-using System.IO;
-using Gherkin;
-using Gherkin.Ast;
 
 namespace FeatureHighlighter.Parser
 {
