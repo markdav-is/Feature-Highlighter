@@ -4,7 +4,7 @@ A lightweight Visual Studio extension that provides **syntax highlighting only**
 
 ## What It Does
 
-Feature Highlighter brings beautiful, accurate syntax highlighting to your BDD feature files using the [Reqnroll](https://reqnroll.net/) Gherkin parser. It supports multiple languages automatically (English, German, French, Spanish, and more).
+Feature Highlighter brings beautiful, accurate syntax highlighting to your BDD feature files with a custom Gherkin parser inspired by [Reqnroll](https://reqnroll.net/). It supports multiple languages automatically (English, German, French, Spanish, and more).
 
 **This extension focuses on one thing:** making your feature files easier to read with proper syntax coloring.
 
@@ -34,7 +34,7 @@ If you need these features, consider using the full [SpecFlow](https://specflow.
 
 ### Multi-Language Support
 
-Thanks to the Reqnroll Gherkin parser, keywords are automatically recognized in multiple languages:
+With a custom Gherkin parser inspired by the Reqnroll project, keywords are automatically recognized in multiple languages:
 
 - 🇬🇧 English: `Feature`, `Scenario`, `Given`, `When`, `Then`
 - 🇩🇪 German: `Funktionalität`, `Szenario`, `Angenommen`, `Wenn`, `Dann`
@@ -177,7 +177,7 @@ The extension uses the Visual Studio Editor extensibility model:
 This extension uses the [Reqnroll](https://reqnroll.net/) Gherkin parser (BSD-3-Clause license) for robust, standards-compliant parsing of Gherkin syntax.
 
 Special thanks to:
-- The Reqnroll team for creating an excellent open-source BDD framework
+- The [Reqnroll](https://reqnroll.net/) team for inspiring the multi-language Gherkin keyword support and providing an excellent open-source BDD framework
 - The SpecFlow team for pioneering .NET BDD tooling
 - The Cucumber community for the Gherkin language specification
 
@@ -185,7 +185,7 @@ Special thanks to:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-The Reqnroll library used by this extension is licensed under the BSD-3-Clause license.
+This extension uses a custom Gherkin parser implementation with no external parsing library dependencies.
 
 ## Contributing
 
@@ -205,6 +205,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - **Discussions**: [GitHub Discussions](https://github.com/markdav-is/Feature-Highlighter/discussions)
 
 ## Changelog
+
+### Version 1.1.0
+
+- ✅ Removed unused Gherkin and Reqnroll package dependencies
+- ✅ Implemented custom self-contained Gherkin parser
+- ✅ Reduced package size (~125 KB)
+- ✅ Improved performance with fewer dependencies
 
 ### Version 1.0.0 (Initial Release)
 
