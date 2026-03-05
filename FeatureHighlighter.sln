@@ -6,6 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureHighlightExt", "Feat
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DCDF9A41-776A-4FCD-B2E7-E73F0F08DCDA}"
 	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
 		TestFiles\sample.feature = TestFiles\sample.feature
 	EndProjectSection
 EndProject
