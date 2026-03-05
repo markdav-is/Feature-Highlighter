@@ -2,6 +2,8 @@
 
 A lightweight Visual Studio extension that provides **syntax highlighting only** for Gherkin/Cucumber `.feature` files.
 
+![screenshot](https://private-user-images.githubusercontent.com/311063/553036471-50a5ea17-7dbd-4ba8-98f5-8d0977549d20.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE2OTczMjksIm5iZiI6MTc3MTY5NzAyOSwicGF0aCI6Ii8zMTEwNjMvNTUzMDM2NDcxLTUwYTVlYTE3LTdkYmQtNGJhOC05OGY1LThkMDk3NzU0OWQyMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIyMVQxODAzNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNzliZjhhYTIxOWM1YTliNzg0NDc5YjkwZTRjNDZmNmVkOThjN2UzYzg5N2FlOWU3YzRhMGJiZWRiZGYwMmJhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tME0hxpxSJ_gA87cSbjlSPdK70ErqfEqz16cXrLlxhw)
+
 ## What It Does
 
 Feature Highlighter brings beautiful, accurate syntax highlighting to your BDD feature files with a custom Gherkin parser inspired by [Reqnroll](https://reqnroll.net/). It supports multiple languages automatically (English, German, French, Spanish, and more).
